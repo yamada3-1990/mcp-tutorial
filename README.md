@@ -1,5 +1,6 @@
 ## tutorial
-https://pypi.org/project/mcp/
+参考　　
+https://pypi.org/project/mcp/  
 https://github.com/codebasics/ai-agents/tree/main/2_mcp_leave_management
 
 ```pip install uv```  
